@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">a 15 year old backend supremacist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icomrade1&label=Profile%20views&color=ff0000&style=flat" alt="icomrade1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icomrade1" alt="icomrade1" /></a> </p>
-
 - 🔭 I’m currently working on **a lot of stuff**
 
 - 🌱 I’m currently learning **web development**
